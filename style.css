@@ -29,7 +29,6 @@ html {
 
 .left {
   width: 70%;
-  /* background-color: red; */
 }
 
 .nav {
@@ -52,6 +51,27 @@ html {
 .welcomeimg {
   height: 70vh;
   margin-top: -6vh;
+}
+
+.left__bottom {
+  height: 20vh;
+  width: 45%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.bubblebottom {
+  height: 100%;
+  width: 100%;
+}
+
+.lower_text {
+  position: absolute;
+  top: 45%;
+  left: 5%;
+  width: 88%;
+  font-weight: 600;
+  font-size: 1.5rem;
 }
 
 /* -========================Right section================== */
